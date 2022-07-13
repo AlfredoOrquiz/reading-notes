@@ -5,3 +5,4 @@ Good afternoon. My name is Alfredo Orquiz. I was born in Lincoln, Nebraska, but 
 ### Software development Class 201 notes 
 - [201-Class01](201-Class01.md)
 - [201-Class02](201-Class02.md)
+- [201-Class03](201-Class03.md)
