@@ -8,3 +8,4 @@ Good afternoon. My name is Alfredo Orquiz. I was born in Lincoln, Nebraska, but 
 - [201-Class03](201-Class03.md)
 - [201-Class04](201-Class04.md)
 - [201-Class05](201-Class05.md)
+- [201-Class05](201-Class06.md)
