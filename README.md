@@ -21,3 +21,4 @@ Good afternoon. My name is Alfredo Orquiz. I was born in Lincoln, Nebraska, but 
 
 ### Code 301 - Intermediate Software Development
 - [301-Class01](301-Class01.md)
+- [301-Class02](301-Class02.md)
