@@ -27,3 +27,4 @@ Good afternoon. My name is Alfredo Orquiz. I was born in Lincoln, Nebraska, but 
 - [301-Class05](301-Class05.md)
 - [301-Class06](301-Class06.md)
 - [301-Class07](301-Class07.md)
+- [301-Class08](301-Class08.md)
