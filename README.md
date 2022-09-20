@@ -36,4 +36,4 @@ Good afternoon. My name is Alfredo Orquiz. I was born in Lincoln, Nebraska, but 
 - [301-Class14](301-Class14.md)
 
 ### Code 401 - Advanced Software Development
-- [Prep-Introduction-to-SQL](Prep-Introduction-to-SQL.md)
+- [Practice-in-the-Terminal](Practice-in-the-Terminal.md)
