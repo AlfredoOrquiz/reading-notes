@@ -40,3 +40,4 @@ Good afternoon. My name is Alfredo Orquiz. I was born in Lincoln, Nebraska, but 
 - [Data-Structures-and-Algorithms](Data-Structures-and-Algorithms.md)
 - [Node-Ecosystem](Node-Ecosystem.md)
 - [Engineering-Readings](Engineering-Readings.md)
+- [SQL-Practice-torture](SQL-Practice-torture.md)
