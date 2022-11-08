@@ -36,11 +36,12 @@ Good afternoon. My name is Alfredo Orquiz. I was born in Lincoln, Nebraska, but 
 - [301-Class14](301-Class14.md)
 
 ### Code 401 - Advanced Software Development
-- [Practice-in-the-Terminal](Practice-in-the-Terminal.md)
 - [Data-Structures-and-Algorithms](Data-Structures-and-Algorithms.md)
 - [Engineering-Readings](Engineering-Readings.md)
-- [SQL-Practice-torture](SQL-Practice-torture.md)
+- [Graphs](Graphs.md)
 - [Hashtable](Hashtable.md)
+- [Practice-in-the-Terminal](Practice-in-the-Terminal.md)
+- [SQL-Practice-torture](SQL-Practice-torture.md)
 - [401-Class01](401-Class01.md)
 - [401-Class02](401-Class02.md)
 - [401-Class03](401-Class03.md)
